@@ -1,0 +1,17 @@
+{
+    "name": "jiahuan\/sjunit-laravel",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ljh",
+            "email": "kiss871225@126.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Jiahuan\\SjunitLaravel\\": "src"
+        }
+    }
+}
